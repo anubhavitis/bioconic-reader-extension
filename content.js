@@ -12,3 +12,9 @@ setMarkerPosition({
   top: 0,
   display: "flex",
 });
+
+/*
+Ignore for:
+- Upper caps words
+- numbers
+*/
